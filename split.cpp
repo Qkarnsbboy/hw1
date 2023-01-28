@@ -11,7 +11,7 @@ the function below should be the only one in this file.
 */
 
 #include "split.h"
-#include <unistd.h> //so I can type NULL
+// #include <unistd.h> //so I can type NULL
 
 /* Add a prototype for a helper function here if you need */
 
